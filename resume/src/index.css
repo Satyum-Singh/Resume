@@ -2,6 +2,18 @@
 @tailwind components;
 @tailwind utilities;
 
+@layer base{
+  :root{
+    --color-text-base:#ffffff;
+    --color-text-muted:#94F3E4;
+    --color-text-inverted:#37AA9C;
+    --color-fill:#37AA9C;
+    --color-button-accent:#ffffff;
+    --color-button-accent-hover:#94F3E4;
+    --color-button-muted:#37AA9C;
+  }
+}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
