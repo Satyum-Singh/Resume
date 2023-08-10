@@ -16,6 +16,7 @@ function Navbar() {
                     <div>Github</div>
                     <div>Instagram</div>
                     <div>Leetcode</div>
+                    <div>Pinterest</div>
                 </div>
             </div>
         </div>
